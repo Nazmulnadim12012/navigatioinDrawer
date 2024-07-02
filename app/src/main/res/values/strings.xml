@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Navigation Drawer ND</string>
+    <string name="table_layout">Table Layout</string>
+    <string name="icc_ranking">ICC RANKING OF PLAYER :</string>
+    <string name="rank">Rank</string>
+    <string name="motionText">Geeks for Geeks!</string>
+</resources>
