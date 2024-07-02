@@ -25,6 +25,7 @@ class TabelLayoutActivity : AppCompatActivity() {
         btnBack.setOnClickListener {
 
             onBackPressedDispatcher.onBackPressed()
+            finish()
 
         }
 
